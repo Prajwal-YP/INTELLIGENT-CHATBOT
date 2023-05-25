@@ -6,9 +6,9 @@ A final year project named" Intelligent Chatbot", which uses NLP and DNN technol
   <img width="500" height="300" src="https://github.com/Prajwal-YP/INTELLIGENT-CHATBOT/assets/87578946/3600be36-07ab-4cf7-af93-392c21f405e8" />
 </p>
 <p align="center">
-  <img src="https://github.com/Prajwal-YP/INTELLIGENT-CHATBOT/assets/87578946/8f59e805-5961-4110-a9f9-686177603923" />
+  <img width="600" height="400" src="https://github.com/Prajwal-YP/INTELLIGENT-CHATBOT/assets/87578946/8f59e805-5961-4110-a9f9-686177603923" />
 </p>
 <p align="center">
-  <img src="https://github.com/Prajwal-YP/INTELLIGENT-CHATBOT/assets/87578946/33e4f641-44ab-4b4d-b350-82e5f41c6411" />
+  <img width="600" height="400" src="https://github.com/Prajwal-YP/INTELLIGENT-CHATBOT/assets/87578946/33e4f641-44ab-4b4d-b350-82e5f41c6411" />
 </p>
 
